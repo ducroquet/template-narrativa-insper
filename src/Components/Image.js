@@ -1,7 +1,6 @@
 import React from "react";
  
 export default props => (
-  <div className="image">
-    <h1>{props.block.url}</h1>
-  </div>
+  <img className="image" src={props.block.url}>
+  </img>
 );
