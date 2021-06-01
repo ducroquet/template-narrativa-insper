@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -39,18 +40,44 @@
 
 .header h1 {
   font-size: 80px;
+  font-family: 'Roboto Slab', serif;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .header h2 {
-  font-size: 30px;
+  font-size: 24px;
+  font-family: 'Roboto Slab', sans-serif;
+  font-weight: 200;
+  max-width: 800px;
+  margin: 0 auto;
+  
+}
+
+.header h3 {
+  text-align: left;
+  max-width: 600px;
+  margin: 80px auto 10px;
+  font-family: 'Roboto Slab', sans-serif;
+  font-size: 18px;
+  text-transform: uppercase;
 }
 
 .header h4 {
   margin-bottom: 100px;
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: 'Roboto Slab', sans-serif;
 }
 
 .paragraph p {
-  max-width: 500px;
+  max-width: 600px;
   margin: 50px auto;
   text-align: left;
+  font-size: 20px;
+  line-height: 28px;
+  font-family: 'Merriweather', serif;
+
 }
+

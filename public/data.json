@@ -3,7 +3,7 @@
       {
             "component": "header",
             "titulo" : "Uma história de dados",
-            "linhafina" : "linha-fina",
+            "linhafina" : "linha-fina Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
             "autor" : "autor",
             "data" : "data"
       },
